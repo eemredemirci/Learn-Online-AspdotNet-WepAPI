@@ -1,4 +1,4 @@
-# Learn-Online-AspdotNet-WepAPI
+# Learn Online Platform Asp.Net WepAPI
 This project developed for an assignment to show development of ASP.NET WEP API skills.
 
 Homework Description (EN)
